@@ -1,7 +1,10 @@
+本项目不再维护，目前完全重构了一版本基于tushare数据的AI原生的多Agent股票分析与策略生成系统
+有兴趣可以移步 https://github.com/Yourdaylight/stock_datasource    
+
+
 **InStock股票系统 - Fork版本**
 
 > **📌 项目来源**: 本项目 Fork 自 [myhhub/stock](https://github.com/myhhub/stock/blob/master/README.md)，在原项目基础上进行了重要改进和优化。
-
 ## 🔄 主要修改与改进
 
 ### 1. 🗄️ 增加数据导入工具（可单独执行）
